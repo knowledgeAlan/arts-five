@@ -18,7 +18,7 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 /**
- * Unit test for simple App.
+ * Unit test for simple Solution.
  */
 public class ListTest {
 
